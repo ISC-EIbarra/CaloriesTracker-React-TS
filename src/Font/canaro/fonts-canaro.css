@@ -154,7 +154,7 @@
   font-style: normal;
 }
 
-@font-face {
+/* @font-face {
   font-family: 'Canaro';
   src: url('Canaro-MediumItalic.eot');
   src: local('Canaro Medium Italic'), local('Canaro-MediumItalic'),
@@ -164,7 +164,7 @@
     url('Canaro-MediumItalic.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
-}
+} */
 
 @font-face {
   font-family: 'Canaro';
